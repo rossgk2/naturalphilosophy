@@ -8,7 +8,7 @@ Humans have of course come a long way since we first started puzzling out how to
 
 In our modern day, I would say that natural philosophy entails representing *abstract principles* from logic as well as *tangible spatial ideas* from our experience in syntactical form, and then using the most basic of those abstract principles to derive further insights. The insights can be new abstract principles that ring true, new spatial ideas we didn't realize are true but are now made clear, or some synthesis of the two.
 
-To me, natural philosophy *is* what math is. My heart is prone to think of other areas of math that don't neatly fit into the "philosophical" or "physically-inspired" categories[^2] as gibberish not having much application, even though my mind knows that they are still very important.)
+To me, natural philosophy *is* what math is. My heart is prone to think of other areas of math that don't neatly fit into the "philosophical" or "physically-inspired" categories[^2] as gibberish not having much application, even though my mind knows that they are still very important.
 
 [^2]: Like number theory, combinatorics, graph theory, and many other discrete math topics.
 
