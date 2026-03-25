@@ -1,6 +1,8 @@
 # What *is* math?
 
-I am personally very interested in what you might call "philosophically- and physically-inspired math". In the olden days, this kind of math was called *natural philosophy*. In my mind, natural philosophy *is* what math is- my heart is prone to think of other areas of math that don't neatly fit into the "philosophical" or "physically-inspired" categories[^1] as gibberish without much application, even though my mind knows that they are still very important.
+I am personally very interested in what you might call "philosophically- and physically-inspired math". In the olden days, this kind of math was called *natural philosophy*. 
+
+To me, natural philosophy *is* what math is. My heart is prone to think of other areas of math that don't neatly fit into the "philosophical" or "physically-inspired" categories[^1] as gibberish not having much application, even though my mind knows that they are still very important.
 
 [^1]: Like number theory, combinatorics, graph theory, and many other discrete math topics.
 ol
