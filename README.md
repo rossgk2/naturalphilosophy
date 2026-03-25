@@ -1,10 +1,10 @@
 # What *is* math?
 
-I am personally very interested in what you might call "philosophically- and physically-inspired math". In the olden days, this blend of math and physics was the only kind of math there was. It was called *natural philosophy*.
+I am personally very interested in what you might call "philosophically- and physically-inspired math". In the olden days, this kind of blend of math and physics was the only kind of math there was. It was called *natural philosophy*.
 
-Humans have of course come a long way since we first started puzzling out how to analyze phenomena in the world we inhabit. In the past, the tools of natural philosophy[^1:] were much more visual (and much more difficult, in my opinion). Now, our tools are much more symbolic and syntactical.
+Humans have of course come a long way since we first started puzzling out how to analyze phenomena in the world we inhabit. In the past, the tools of natural philosophy[^1] were much more visual (and much more difficult, in my opinion). Now, our tools are much more symbolic and syntactical (making the manipulations much more accessible, in my opinion).
 
-[^1]: Euclidean geometry
+[^1]: Euclidean geometry, i.e., ruler and compass geometry
 
 In our modern day, I would say that natural philosophy entails representing *abstract principles* from logic as well as *tangible spatial ideas* from our experience in syntactical form, and then using the most basic of those abstract principles to derive further insights. The insights can be new abstract principles that ring true, new spatial ideas we didn't realize are true but are now made clear, or some synthesis of the two.
 
