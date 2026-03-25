@@ -1,12 +1,18 @@
 # What *is* math?
 
-I am personally very interested in what you might call "philosophically- and physically-inspired math". In the olden days, this kind of math was called *natural philosophy*. 
+I am personally very interested in what you might call "philosophically- and physically-inspired math". In the olden days, this blend of math and physics was the only kind of math there was. It was called *natural philosophy*.
 
-To me, natural philosophy is the practice of representing *abstract principles* from logic as well as *tangible spatial ideas* from our experience in syntactical form, and then using the most basic of those abstract principles to derive further insights. The insights can be new abstract principles that ring true, new spatial ideas we didn't realize are true but are now made clear, or some synthesis of the two.
+Humans have of course come a long way since we first started puzzling out how to analyze phenomena in the world we inhabit. In the past, the tools of natural philosophy[^1:] were much more visual (and much more difficult, in my opinion). Now, our tools are much more symbolic and syntactical.
 
-(And, to me, natural philosophy *is* what math is. My heart is prone to think of other areas of math that don't neatly fit into the "philosophical" or "physically-inspired" categories[^1] as gibberish not having much application, even though my mind knows that they are still very important.)
+[^1]: Euclidean geometry
 
-[^1]: Like number theory, combinatorics, graph theory, and many other discrete math topics.
+In our modern day, I would say that natural philosophy entails representing *abstract principles* from logic as well as *tangible spatial ideas* from our experience in syntactical form, and then using the most basic of those abstract principles to derive further insights. The insights can be new abstract principles that ring true, new spatial ideas we didn't realize are true but are now made clear, or some synthesis of the two.
+
+To me, natural philosophy *is* what math is. My heart is prone to think of other areas of math that don't neatly fit into the "philosophical" or "physically-inspired" categories[^2] as gibberish not having much application, even though my mind knows that they are still very important.)
+
+[^2]: Like number theory, combinatorics, graph theory, and many other discrete math topics.
+
+## Math is beautiful
 
 A striking example of some synthesis is the *generalized fundamental theorem of calculus*,
 
@@ -30,9 +36,9 @@ $$
 f(x),
 $$
 
-then the input $x$ is also in some sense acting on the function $f$ (by means of a higher-order function that itself takes functions, like $f$, as inputs). This philosophical sort of realization is not just perspective-changing, but actually useful for representing functions as objects[^2]. Doing so is a fundamental part of understanding the machinery behind Albert Einstein's theory of gravity.
+then the input $x$ is also in some sense acting on the function $f$ (by means of a higher-order function that itself takes functions, like $f$, as inputs). This philosophical sort of realization is not just perspective-changing, but actually useful for representing functions as objects[^3]. Doing so is a fundamental part of understanding the machinery behind Albert Einstein's theory of gravity.
 
-[^2]: Via the linear isomorphism $\mathcal{L}(V \rightarrow W) \cong W^{*} \otimes V$.]
+[^3]: Via the linear isomorphism $\mathcal{L}(V \rightarrow W) \cong W^{*} \otimes V$.]
 
 ## The beauty of math is obscured!
 
