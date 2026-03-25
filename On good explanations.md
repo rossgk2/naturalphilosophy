@@ -4,7 +4,7 @@ Here I discuss various types of common bad explanations and what makes a good ex
 
 ## "Conjecture and prove" math
 
-The "conjecture and prove" pedagogy is defined by the following three failings:
+The most prevalent method of explaining theories is the "conjecture and prove" pedagogy. It is defined by the following three failings:
 
 - Concept definitions are often given no real motivation (the "motivation" is often historical- e.g. "the Greeks noticed this", "Euler noticed that").
   - In particular, the following malpractice regarding definitions is often followed. Textbooks often first define what it means for an object to have a certain property $P$, and then prove a theorem that states that having this property is equivalent to some important statement $S$. This approach is malpractice because the reader likely pauses after the definition of property $P$ to ask themselves, "Why are objects with propety $P$ important?". Of course, if the reader is experienced, then they will know to expect that the answer to the question is coming soon (they get their answer when they read the theorem that equates property $P$ to the statement $S$), but if the reader is not experienced, then they will feel lost. A much better way to present the same information is to switch the order of theorem and definition. That is: first derive via a natural investigation that statement $S$ is true for objects that have a certain property, and then define an object to have property $P$ if statement $S$ is true. This provides automatic motivation for why objects with property $P$ are important.
