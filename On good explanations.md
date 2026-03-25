@@ -1,8 +1,8 @@
 # On good explanations
 
-## "Conjecture and prove" math
+Here I discuss various types of common bad explanations and what makes a good explanation. Hopefully this is theraputic to someone else out there who's been similarly frustrated, or who is currently lost in the tangle.
 
-Here are some more specifics on the failings of "conjecture and prove" math. Hopefully this is theraputic to someone else out there who's been similarly frustrated.
+## "Conjecture and prove" math
 
 The "conjecture and prove" pedagogy is defined by the following three failings:
 
