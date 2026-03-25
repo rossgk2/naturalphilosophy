@@ -1,4 +1,4 @@
-# What *is* math?
+# Natural philosophy
 
 I am personally very interested in what you might call "philosophically- and physically-inspired math". In the olden days, this kind of blend of math and physics was the only kind of math there was. It was called *natural philosophy*.
 
