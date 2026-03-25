@@ -2,11 +2,11 @@
 
 I am personally very interested in what you might call "philosophically- and physically-inspired math". In the olden days, this kind of math was called *natural philosophy*. 
 
-To me, natural philosophy *is* what math is. My heart is prone to think of other areas of math that don't neatly fit into the "philosophical" or "physically-inspired" categories[^1] as gibberish not having much application, even though my mind knows that they are still very important.
+To me, natural philosophy is the practice of representing *abstract principles* from logic as well as *tangible spatial ideas* from our experience in syntactical form, and then using the most basic of those abstract principles to derive further insights. The insights can be new abstract principles that ring true, new spatial ideas we didn't realize are true but are now made clear, or some synthesis of the two.
+
+(And, to me, natural philosophy *is* what math is. My heart is prone to think of other areas of math that don't neatly fit into the "philosophical" or "physically-inspired" categories[^1] as gibberish not having much application, even though my mind knows that they are still very important.)
 
 [^1]: Like number theory, combinatorics, graph theory, and many other discrete math topics.
-ol
-To me, "true math" is the practice of representing *abstract principles* from logic as well as *tangible spatial ideas* from our experience in syntactical form, and then using the most basic of those abstract principles to derive further insights. The insights can be new abstract principles that ring true, new spatial ideas we didn't realize are true but are now made clear, or some synthesis of the two.
 
 A striking example of some synthesis is the *generalized fundamental theorem of calculus*,
 
