@@ -6,7 +6,7 @@ Humans have of course come a long way since we first started puzzling out how to
 
 [^1]: Euclidean geometry, i.e., ruler and compass geometry
 
-In our modern day, I would say that natural philosophy entails representing *abstract principles* from logic as well as *tangible spatial ideas* from our experience in syntactical form, and then using the most basic of those abstract principles to derive further insights. The insights can be new abstract principles that ring true, new spatial ideas we didn't realize are true but are now made clear, or some synthesis of the two.
+In our modern day, natural philosophy is called "mathematical physics", or "physics in the language of differential geometry". It entails representing *abstract principles* from logic as well as *tangible spatial ideas* from our experience in syntactical form, and then using the most basic of those abstract principles to derive further insights. The insights can be new abstract principles that ring true, new spatial ideas we didn't realize are true but are now made clear, or some synthesis of the two.
 
 To me, natural philosophy *is* what math is. My heart is prone to think of other areas of math that don't neatly fit into the "philosophical" or "physically-inspired" categories[^2] as gibberish not having much application, even though my mind knows that they are still very important[^3].
 
@@ -38,7 +38,7 @@ $$
 f(x),
 $$
 
-then the input $x$ is also in some sense acting on the function $f$ (by means of a higher-order function that itself takes functions, like $f$, as inputs). This philosophical sort of realization is not just perspective-changing, but actually useful for representing functions as objects[^4]. Doing so is a fundamental part of understanding the machinery behind Albert Einstein's theory of gravity.
+then the input $x$ is also in some sense acting on the function $f$ (by means of a function that itself takes functions, like $f$, as inputs). This philosophical sort of realization is not just perspective-changing, but actually useful for representing functions as objects[^4]. Doing so is a fundamental part of understanding the machinery behind Albert Einstein's theory of gravity.
 
 [^4]: Via the linear isomorphism $\mathcal{L}(V \rightarrow W) \cong W^{*} \otimes V$.]
 
