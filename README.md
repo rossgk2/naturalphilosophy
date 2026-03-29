@@ -1,6 +1,6 @@
 # Natural philosophy
 
-I am personally very interested in what you might call "philosophically- and physically-inspired math". In the olden days, this kind of blend of math and physics was the only kind of math there was. It was called *natural philosophy*.
+I am personally very interested in what you might call "philosophically- and physically-inspired math". In the olden days, this kind of blend of math and physics was predominant. It was called *natural philosophy*.
 
 Humans have of course come a long way since we first started puzzling out how to analyze phenomena in the world we inhabit. In the past, the tools of natural philosophy[^1] were much more visual (and much more difficult, in my opinion). Now, our tools are much more symbolic and syntactical (making the manipulations much more accessible, in my opinion).
 
