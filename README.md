@@ -14,7 +14,7 @@ To me, natural philosophy *is* what math is. My heart is prone to think of other
 
 [^3]: This is because, to reference WT Gowers's [*The Two Cultures of Mathematics*](https://www.dpmms.cam.ac.uk/~wtg10/2cultures.pdf), I am much more of a theory-builder than problem-solver.
 
-## Math is beautiful
+## Pinnacles of natural philosophy
 
 A striking example of some synthesis is the *generalized fundamental theorem of calculus*,
 
