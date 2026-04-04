@@ -22,7 +22,13 @@ $$
 \int_M d\omega = \int_{\partial M} \omega
 $$
 
-It says that "the accumulation of the density over the interior is equal to the difference of the quantity across the boundary". How abstract, how visual, how beautiful. 
+It says that "the accumulation of the density over the interior is the difference of the quantity across the boundary". How abstract, how visual, how beautiful. If you have experience with calculus, you can perhaps see how this generalizes the elementary fundamental theorem of calculus,
+
+$$
+\int^a_b \frac{df(x)}{dx} dx = f(b) - f(a),
+$$
+
+which says "the accumulation of the density is the difference of the quantity", an already beautiful fact.
 
 Another example, from the more tangible end of things, is Isaac Newton's definition of the total force on a particle of mass $m$ and velocity $\mathbf{v}$:
 
@@ -42,7 +48,9 @@ then the input $x$ is also in some sense acting on the function $f$ (by means of
 
 [^4]: Via the linear isomorphism $\mathcal{L}(V \rightarrow W) \cong W^{*} \otimes V$.]
 
-## The beauty is obscured!
+I am also extremely partial to the realization that if a function $\mathbf{f}$ sending vectors to vectors is *linear*, and preserves the decomposition of its input, $\mathbf{f}(c\_1 \mathbf{v}\_1 + ... c\_n \mathbf{v}\_n) = c\_1 \mathbf{f}(\mathbf{v})\_1 + ... + c\_n \mathbf{f}(\mathbf{v})\_n$, then the function can be represented purely by knowing where a representative list of vectors gets sent. This naturally leads to the introduction of matrices, and the definition of matrix-vector multiplication. Continue following this trail by reasoning that, since a composition of two linear functions is linear, the composition must be also representible by a matrix, and the complicated formulas of matrix-matrix multiplication reveals itself. The formulas look like wizardry; the logic leading to them is indisputable!
+
+## The beauty is obscured
 
 Unfortunately, the beauty of math is unfortunately much too often obscured by wrong attitudes. The "that's just the way it is" attitude from high school math class is probably familiar to us all.
 
