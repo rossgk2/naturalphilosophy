@@ -27,7 +27,7 @@ It says that "the accumulation of the density over the interior is the differenc
 If you have experience with calculus, you can perhaps see how this generalizes the elementary fundamental theorem of calculus,
 
 $$
-\int^a_b \frac{df(x)}{dx} dx = f(b) - f(a),
+\int^b_a \frac{df(x)}{dx} dx = f(b) - f(a),
 $$
 
 which says "the accumulation of the density is the difference of the quantity", an already beautiful fact.
