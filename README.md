@@ -62,4 +62,4 @@ These books are incomplete, but are in a good enough state that I feel okay with
 
 - [Calculus](https://github.com/rossgk2/Calculus)
 - [Physics](https://github.com/rossgk2/Physics)
-- [Tensors and differential forms](https://github.com/rossgk2/Tensors-and-differential-forms) (the mathematics behind Einstein's theory of gravity)
+- [Linear algebra, tensors, and manifolds](https://github.com/rossgk2/Linear-algebra-tensors-manifolds) (the mathematics behind Einstein's theory of gravity)
