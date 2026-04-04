@@ -22,7 +22,9 @@ $$
 \int_M d\omega = \int_{\partial M} \omega
 $$
 
-It says that "the accumulation of the density over the interior is the difference of the quantity across the boundary". How abstract, how visual, how beautiful. If you have experience with calculus, you can perhaps see how this generalizes the elementary fundamental theorem of calculus,
+It says that "the accumulation of the density over the interior is the difference of the quantity across the boundary". How abstract, how visual, how beautiful.
+
+If you have experience with calculus, you can perhaps see how this generalizes the elementary fundamental theorem of calculus,
 
 $$
 \int^a_b \frac{df(x)}{dx} dx = f(b) - f(a),
@@ -48,11 +50,13 @@ then the input $x$ is also in some sense acting on the function $f$ (by means of
 
 [^4]: Via the linear isomorphism $\mathcal{L}(V \rightarrow W) \cong W^{*} \otimes V$.]
 
-I am also extremely partial to the realization that if a function $\mathbf{f}$ sending vectors to vectors is *linear*, and preserves the decomposition of its input, $\mathbf{f}(c\_1 \mathbf{v}\_1 + ... c\_n \mathbf{v}\_n) = c\_1 \mathbf{f}(\mathbf{v})\_1 + ... + c\_n \mathbf{f}(\mathbf{v})\_n$, then the function can be represented purely by knowing where a representative list of vectors gets sent. This naturally leads to the introduction of matrices, and the definition of matrix-vector multiplication. Continue following this trail by reasoning that, since a composition of two linear functions is linear, the composition must be also representible by a matrix, and the complicated formulas of matrix-matrix multiplication reveals itself. The formulas look like wizardry; the logic leading to them is indisputable!
+I am also extremely partial to the realization that if a function $\mathbf{f}$ sending vectors to vectors is *linear*, and preserves the decomposition of its input, $\mathbf{f}(c\_1 \mathbf{v}\_1 + ... c\_n \mathbf{v}\_n) = c\_1 \mathbf{f}(\mathbf{v}\_1) + ... + c\_n \mathbf{f}(\mathbf{v}\_n)$, then the function can be represented purely by knowing where a representative list of vectors gets sent. This naturally leads to the introduction of matrices (lists of vectors, or *grids* of numbers), and the definition of matrix-vector multiplication. Continue following this trail- by reasoning that, since a composition of two linear functions is linear, the composition must be also representible by a matrix- and a (simple!) formula for matrix-matrix multiplication reveals itself. More complicated formulas that obscure the clarity of the simple one follow. They look like wizardry, but the logic leading to them is indisputable!
+
+Of course, the path of clarity is rarely the one presented. All too often, teachers and books alike set us down at a random, unideal place within the structure of an idea. We are given the complicated formula that is best derived as "end result", and told it is actually a bedrock fact.
 
 ## The beauty is obscured
 
-Unfortunately, the beauty of math is unfortunately much too often obscured by wrong attitudes. The "that's just the way it is" attitude from high school math class is probably familiar to us all.
+The beauty of math is unfortunately much too often obscured by wrong attitudes. The "that's just the way it is" attitude from high school math class is probably familiar to us all.
 
 There's also the "conjecture and prove" pedagogy that traditional approaches to higher mathematics overuse and abuse. In ["conjecture and prove"](./On%20good%20explanations.md#conjecture-and-prove-math), the proposed truths (conjectures) are always plausible enough, but also always seem to be somewhat unmotivated, somewhat popping out of thin air. It's true that some ideas are radical enough perspective shifts that they can only be perceived as coming out of the blue, but most ideas can be related to a previously known network of ideas in a natural way that lends to their discovery.
 
