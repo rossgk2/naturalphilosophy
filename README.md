@@ -42,7 +42,7 @@ then the input $x$ is also in some sense acting on the function $f$ (by means of
 
 [^4]: Via the linear isomorphism $\mathcal{L}(V \rightarrow W) \cong W^{*} \otimes V$.]
 
-## The beauty of math is obscured!
+## The beauty is obscured!
 
 Unfortunately, the beauty of math is unfortunately much too often obscured by wrong attitudes. The "that's just the way it is" attitude from high school math class is probably familiar to us all.
 
